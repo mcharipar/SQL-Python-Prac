@@ -1,0 +1,11 @@
+{
+    "function_z": [
+    "param_4",
+    {"function_x": {
+        "function_w": [
+                "param_1",
+                "param_2"
+    ] } },
+    {"function_y": "param_3"
+    } ]
+}

@@ -26,3 +26,10 @@ installation.bat
 
 - Update the [`.env`](.env) file to load PostegreSQL password into the notebook. 
     - Not considered *best practice*, but can hard code PostegreSQL within notebook.
+
+## [More_Act](More_Act)
+Contains 2 notebook file:
+- [dataHandoff.ipynb](More_Act/dataHandoff.ipynb)
+- [jsonInterpreter.ipynb](More_Act/jsonInterpreter.ipynb)
+### Installation
+Same instructions as above except use [More_Act/installation_fresh.bat](More_Act/installation_fresh.bat) or [More_Act/installation_fresh.txt](More_Act/installation_fresh.txt)
